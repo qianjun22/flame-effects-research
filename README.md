@@ -20,6 +20,8 @@ This repo documents various approaches to generating realistic exhaust flame eff
 | [Fireball Round](methods/03_fireball_round/) | Simple radial gradient fireballs | ⭐⭐⭐ | Clean but too smooth/artificial |
 | [Irregular Flames](methods/04_irregular_flames/) | Jagged, wind-torn edges | ⭐⭐ | More realistic shape, harder to tune |
 | [Gemini Colors](methods/05_gemini_colors/) | Physically-based color temperatures | ⭐⭐⭐ | Accurate colors, integrated into other methods |
+| [Exhaust Glow](methods/06_exhaust_glow/) | Glowing pipe interior with streaks | ⭐⭐⭐⭐ | Realistic - simulates looking into hot pipe |
+| [Camera Perspective](methods/07_camera_perspective/) | Flames shooting toward viewer | ⭐⭐⭐⭐ | Perspective-correct expansion, no sparks |
 
 ## Key Techniques
 

@@ -20,6 +20,8 @@
 | [圆形火球](methods/03_fireball_round/) | 简单径向渐变火球 | ⭐⭐⭐ | 干净但过于平滑/人工 |
 | [不规则火焰](methods/04_irregular_flames/) | 锯齿状、风吹边缘 | ⭐⭐ | 形状更真实，但难以调节 |
 | [Gemini颜色](methods/05_gemini_colors/) | 基于物理的色温 | ⭐⭐⭐ | 颜色准确，已整合到其他方法 |
+| [排气管发光](methods/06_exhaust_glow/) | 发光管道内部配合火焰条纹 | ⭐⭐⭐⭐ | 逼真 - 模拟看向高温管道内部 |
+| [摄像机透视火焰](methods/07_camera_perspective/) | 火焰向观众方向喷射 | ⭐⭐⭐⭐ | 透视正确的扩展效果，无火花 |
 
 ## 关键技术
 
